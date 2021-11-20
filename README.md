@@ -10,4 +10,4 @@ Dataset Available at : https://www.kaggle.com/kazanova/sentiment140
 ### FaceMask Detection
 Dataset Available at : https://www.kaggle.com/andrewmvd/face-mask-detection/
 
-[Click here to view the Jupyter Notebook](https://github.com/saifali-patel/ML-Projects/blob/main/Twitter%20Sentiment%20Analysis/TwitterSentimentAnalysis.ipynb)
+[Click here to view the Jupyter Notebook](https://github.com/saifali-patel/ML-Projects/blob/main/Facemask%20Detection/FaceMaskDetection.ipynb)
