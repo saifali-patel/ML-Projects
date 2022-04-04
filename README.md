@@ -10,6 +10,7 @@ This repository will contain all Machine Learning Projects I have attempted.
 Dataset Available at : https://www.kaggle.com/andrewmvd/face-mask-detection/
 
 [Click here to view the Jupyter Notebook](https://github.com/saifali-patel/ML-Projects/blob/main/Facemask%20Detection/FaceMaskDetection.ipynb)
+[Click here for Demo](https://huggingface.co/spaces/Saifali/FaceMaskDetection)
 
 ### Sentiment Analysis of Twitter Data
 Dataset Available at : https://www.kaggle.com/kazanova/sentiment140
