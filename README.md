@@ -2,7 +2,7 @@
 
 This repository will contain all Machine Learning Projects I have attempted.
 
-### 1. Neural Networks Web App using Streamlit
+### 1. Undergrad Research Thesis ( Soon to be public )
 
 [Click here to go to the repository](https://github.com/saifali-patel/UndergradResearchThesis/blob/main/README.md)
 
