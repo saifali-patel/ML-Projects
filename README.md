@@ -2,7 +2,7 @@
 
 This repository will contain all Machine Learning Projects I have attempted.
 
-### Neural Networks Web App
+### Neural Networks Web App using Streamlit
 
 [Click here to go to the repository](https://github.com/saifali-patel/NNStreamlit)
 
