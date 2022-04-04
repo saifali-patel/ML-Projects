@@ -4,7 +4,7 @@ This repository will contain all Machine Learning Projects I have attempted.
 
 ### Neural Networks Web App
 
-[Click here to go to the repository](https://github.com/saifali-patel/ML-Projects/blob/main/Facemask%20Detection/FaceMaskDetection.ipynb)
+[Click here to go to the repository](https://github.com/saifali-patel/NNStreamlit)
 
 ### Sentiment Analysis of Twitter Data
 Dataset Available at : https://www.kaggle.com/kazanova/sentiment140
